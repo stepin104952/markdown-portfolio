@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1.**_Invictus_**
+2.**Team Player**
+3.**Leader** :cool:
+4.**Creative mind with lots of passion**
+5.**_master of my fate, captain of my soul_**
+6. **Electronics Engineer**
