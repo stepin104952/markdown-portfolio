@@ -6,7 +6,7 @@
   5. Motorcycle Diaries
   6. Ghazakinte Ithihasam
   
-2.**MOVIES**:movies:
+2.**MOVIES** :camera:
   1. The Shawshank Redemption
   2. Interstellar
   3. Capernaum
